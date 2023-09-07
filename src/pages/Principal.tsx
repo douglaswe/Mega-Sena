@@ -13,6 +13,7 @@ import { WrapperStyle } from "./styles";
 import { ThemeProvider } from "styled-components";
 
 
+
 export default function Principal() {
     const[concurso,setConcurso] = useState({} as Props);
     const [isLoading, setIsLoading] = useState(true);
