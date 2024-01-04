@@ -11,7 +11,7 @@ export const PremioSld = styled.div`
     display: flex;    
     align-items: flex-end;
     margin-top: -50px;
-    margin-left: 160px;
+    margin-left: 170px;
     }
 }
 `;
