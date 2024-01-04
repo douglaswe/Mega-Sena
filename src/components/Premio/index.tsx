@@ -24,7 +24,8 @@ export function Premio({
       do proximo concurso
       <br />
       {dataProximoConcurso}
-      <br /></><div className="estimado">{valorFormatado}</div>
+      <br />
+      <div className="estimado">{valorFormatado}</div>
     </PremioSld>
   );
 }
